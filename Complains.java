@@ -10,6 +10,7 @@ public class Complains {
 	
 	private  String comment;
 	@Id
+	private String complain_Id;
 	private String regno;
 	private String name;
 	private String hostel;
