@@ -9,7 +9,6 @@ public class ViewedComplains {
 	
 	private String name;
 	@Id
-	private String complains_Id;
 	private String regno;
 	private String hostel;
 	private String block;
